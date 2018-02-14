@@ -18,5 +18,5 @@ The necessary FFI library libonigmo.(dll|so) will be downloaded automatically up
 
 [travis-badge]: https://travis-ci.org/peteruhnak/onigmo.svg?branch=master
 [travis]: https://travis-ci.org/peteruhnak/onigmo
-[coveralls-badge]: https://coveralls.io/repos/github/onigmo/pharo-sentry/badge.svg?branch=master
+[coveralls-badge]: https://coveralls.io/repos/github/peteruhnak/onigmo/badge.svg?branch=master
 [coveralls]: https://coveralls.io/github/peteruhnak/onigmo?branch=master
