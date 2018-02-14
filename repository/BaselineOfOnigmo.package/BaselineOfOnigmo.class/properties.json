@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PeterUhnak 2/14/2018 14:33",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfOnigmo",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfOnigmo",
+	"type" : "normal"
+}

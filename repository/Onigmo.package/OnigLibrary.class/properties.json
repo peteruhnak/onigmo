@@ -4,9 +4,7 @@
 	"category" : "Onigmo",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [
-		"modulePath"
-	],
+	"classvars" : [ ],
 	"instvars" : [ ],
 	"name" : "OnigLibrary",
 	"type" : "normal"

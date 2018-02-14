@@ -1,3 +1,3 @@
 accessing platform
 unix32ModuleName
-	^ modulePath  
+	^ self shouldBeImplemented
