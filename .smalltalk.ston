@@ -1,0 +1,19 @@
+SmalltalkCISpec {
+	#loading : [
+		SCIMetacelloLoadSpec {
+			#baseline : 'Onigmo',
+			#directory : 'repository',
+			#platforms : [ #pharo ]
+		}
+	],
+	#testing : {
+		#coverage : {
+			#packages : [
+				'Onigmo.*'
+			]
+		},
+		#packages : [
+			'Onigmo.*'
+		]
+	}
+}
