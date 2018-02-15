@@ -7,13 +7,9 @@ SmalltalkCISpec {
 		}
 	],
 	#testing : {
+		#packages : [ 'Onigmo' ],
 		#coverage : {
-			#packages : [
-				'Onigmo.*'
-			]
-		},
-		#packages : [
-			'Onigmo.*'
-		]
+			#packages : [ 'Onigmo' ]
+		}
 	}
 }
