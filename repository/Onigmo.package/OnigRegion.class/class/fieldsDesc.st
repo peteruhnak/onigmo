@@ -3,7 +3,6 @@ fieldsDesc
 	^ #(
 			int allocated;
 			int num_regs;
-			OnigPosition* beg;
-			OnigPosition* end;
-		)
-	"don't do it, the generated methods aren't enough"
+			void * beg;
+			void * end;
+	)

@@ -8,8 +8,8 @@ matchAt: index do: aBlock
 			nothing happens"
 			
 	self assert: (index >= 0) & (index < self num_regs) description: 'match subscription out of bounds'.
-	((self beg at: index + 1) = -1)
+	((self begArray at: index + 1) = -1)
 		ifFalse: [ 
 			aBlock 
-				value: (self beg at: index + 1) + 1
-				value: (self end at: index + 1) ]
+				value: (self begArray at: index + 1) + 1
+				value: (self endArray at: index + 1) ]

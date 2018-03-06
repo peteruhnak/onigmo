@@ -1,6 +1,4 @@
-accessing structure variables
+private
 end
-	^ FFIExternalArray 
-		fromHandle: (handle pointerAt: OFFSET_END)
-		type: OnigPosition
-		size: self num_regs
+	"This method was automatically generated"
+	^ExternalData fromHandle: (handle pointerAt: OFFSET_END) type: ExternalType void asPointerType

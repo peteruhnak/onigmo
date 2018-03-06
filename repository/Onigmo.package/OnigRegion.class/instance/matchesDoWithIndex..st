@@ -1,4 +1,4 @@
-accessing structure variables
+enumerating
 matchesDoWithIndex: aBlock
 	"executes a block with the indices of groups that matched (eg. the groups whose beg and end indices aren't -1) and with the index of the group(0 being the whole match)
 	
